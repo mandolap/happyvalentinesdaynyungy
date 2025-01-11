@@ -298,10 +298,6 @@
 
 <!-- Container mit Inhalt -->
 <div class="valentinstag-container valentinstag-rand">
+    
   <h1>💖</h1>
   <p>~ Dein Mangu✨</p>
-</div>
-
-<!-- Punkt-Abschlussrand -->
-<div class="abschluss-punkt-rand"></div>
-
