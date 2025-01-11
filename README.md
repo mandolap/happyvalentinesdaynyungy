@@ -168,7 +168,7 @@
         .notebook::before {
             content: '';
             position: absolute; 
-            top: -10px; /* Positioniert die Löcher oberhalb des Notizblocks */
+            top: -10px; 
             left: 50%;
             width: 90%;
             height: 20px;
@@ -285,7 +285,6 @@
 </html>
 
 <style>
-  /* Punkt-Rand am Ende der Seite */
   .abschluss-punkt-rand {
     width: 100%;
     height: 20px;
